@@ -2,7 +2,7 @@
 
 Update Station is a GTK-based application for managing software update settings on GhostBSD. This application allows users to configure how often the system checks for updates.
 
-This provides a wireframe for defining a basic look and feel of the app.
+This provides a wireframe for defining a basic look and feel of the app. This is simply here on the shelf to be worked on during a later sprint.
 
 ## Features
 
